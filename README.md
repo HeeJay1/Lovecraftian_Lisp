@@ -5,6 +5,11 @@ Ever worked with a Lisp dialect and thought: "There are not enough parentheses?"
 
 This is the Ultimate Lisp Data Structure, using only cons cells and empty lists!
 
+Dedicated to Harold Abelson, Gerald Jay Sussman and Julie Sussman, and all who have
+been been enlightened and/or sunk to despair by their book Structure and Interpretation of
+Computer Programs.
+
+
 lovecraft-encode takes as input any string, and converts it into Lovecraftian Lisp.
 lovecraft-decode converts Lovecraftial Lisp back into strings.
 
