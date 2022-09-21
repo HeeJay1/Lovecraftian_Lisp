@@ -21,7 +21,11 @@ DrRacket, or any other Racket implementation.
 
 
 USAGE:
-compile the files, then run them as:
+The .zip-files contain directories of compiled Windows 11 versions with necessary support.
+
+For other systems, compile the files.
+
+Run them as:
 lovecraft-encode < input > output
 lovecraft-decode < input > output
 
