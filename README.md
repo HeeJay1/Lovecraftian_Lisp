@@ -10,6 +10,11 @@ lovecraft-decode converts Lovecraftial Lisp back into strings.
 
 Different encodings are handled automagically.
 
+REQUIREMENTS:
+DrRacket, or any other Racket implementation.
+(It should be easy to modify the programs for any other Lisp you like to use.)
+
+
 USAGE:
 compile the files, then run them as:
 lovecraft-encode < input > output
@@ -19,6 +24,7 @@ Or use Unix pipes:
 echo "Iä! Iä! Cthulhu fhtagn!" | lovecraft-encode
 
 (Remember!  Don't use named pipes - this program prefers nameless piping.)
+
 
 EXAMPLE:
 (Run in a Linux system)
